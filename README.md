@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2>E-learning-website <br>LTE (Learn To Earn)</h2>
+  <h2>E-learning-website <br>LTE (Learn To Earn)</h2><br><h4>Graduation Project</h4>
   <img src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" width="200"/>
   <hr></div>
 <div>This website is a very spacial version of e learning world because of many features that me and my graduation team add .
